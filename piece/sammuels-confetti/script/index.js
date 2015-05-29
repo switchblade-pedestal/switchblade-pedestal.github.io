@@ -51,9 +51,9 @@ function weightedCoinFlip(bias) {
 }
 
 function gotoRandomURL() {
-    var URLs = ['google.com','yahoo.com','duckduckgo.com'];
+    var URLs = ['/','/piece/aminal/','/piece/alive-ghost/'];
     seed = Math.floor(Math.random()*URLs.length);
-    window.location.href = 'http://' + URLs[seed];
+    window.location.href = "http://" + location.host + URLs[seed];
 }
 
 function getRandomURL() {
@@ -61,3 +61,4 @@ function getRandomURL() {
     seed = Math.floor(Math.random()*URLs.length);
     return 'http://' + URLs[seed];
 }
+
