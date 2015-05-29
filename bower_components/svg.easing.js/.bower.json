@@ -1,0 +1,14 @@
+{
+  "name": "svg.easing.js",
+  "homepage": "https://github.com/wout/svg.easing.js",
+  "_release": "3b8cd49476",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3b8cd49476a66c0381b42dd6a5656de1d57b6364"
+  },
+  "_source": "git://github.com/wout/svg.easing.js.git",
+  "_target": "*",
+  "_originalSource": "svg.easing.js",
+  "_direct": true
+}
